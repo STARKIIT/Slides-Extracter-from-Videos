@@ -8,22 +8,24 @@ It also uses **pytesseract** for OCR and **tqdm** for progress tracking.
 
 ## 📂 Directory Structure
 
+
 Your project directory should look like this:
 
 vid2slides-main/
-│── demo/ # demo outputs (optional)
-│── models/
-│ └── haarcascade_frontalface_default.xml # Haar cascade for face detection
-│── vid2slides/
-│ ├── slides2chapters.py # Convert JSON → YouTube chapters
-│ ├── slides2gif.py # Convert JSON → GIF
-│ ├── slides2pdf.py # Convert JSON → PDF
-│ ├── vid2slides.py # Original (uses decord)
-│ └── vid2slides_m1.py # ✅ Updated version for M1 (ffmpeg + OpenCV)
-│── environment_m1.yml # Conda environment file for M1
-│── my_video.mp4 # Example input video
-│── output.json # Example extracted slides (JSON)
-│── README.md / come.md # Documentation file (this one)
+├── demo/                         
+├── models/
+│   └── haarcascade_frontalface_default.xml
+├── vid2slides/
+│   ├── slides2chapters.py
+│   ├── slides2gif.py
+│   ├── slides2pdf.py
+│   ├── vid2slides.py
+│   └── vid2slides_m1.py
+├── environment_m1.yml
+├── my_video.mp4
+├── output.json
+├── README.md / come.md
+
 
 
 
