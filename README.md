@@ -80,7 +80,7 @@ vid2slides-main/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOURNAME/vid2slides.git
+git clone https://github.com/STARKIIT/Slides-Extracter-from-Videos/
 cd vid2slides-main
 Create environment:
 
