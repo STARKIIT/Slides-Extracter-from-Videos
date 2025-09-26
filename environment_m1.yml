@@ -1,0 +1,21 @@
+name: vid2slides-m1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - opencv
+  - ffmpeg
+  - matplotlib
+  - moviepy
+  - imageio
+  - pytesseract
+  - tesseract
+  - scikit-learn
+  - pip:
+      - ffmpeg-python
+      - imageio-ffmpeg
+      - moviepy
+      - glob2
+      - collections-extended

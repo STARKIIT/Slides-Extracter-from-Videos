@@ -1,0 +1,23 @@
+{
+  "pip_location": null,
+  "sequence": [
+    {
+      "type": "slide",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "start_index": 0,
+      "end_index": 2,
+      "offset": 1,
+      "source": "/var/folders/4l/b09t5pks21s9klvcvqq5vl5h0000gn/T/vid2slides_n_jskl63/hi/thumb-0001.png",
+      "title": "(Seve)"
+    }
+  ],
+  "crop": {
+    "x": 0,
+    "y": 50,
+    "w": 1280,
+    "h": 664
+  },
+  "thumb_interval": 2,
+  "tmp_root": "/var/folders/4l/b09t5pks21s9klvcvqq5vl5h0000gn/T/vid2slides_n_jskl63"
+}
